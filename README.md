@@ -3,7 +3,7 @@
 **Instituição:** CESAR School  
 **Curso:** Análise e Desenvolvimento de Sistemas  
 **Disciplina:** Requisitos, Projeto de Software e Validação  
-**Professor(a):** Hayanna Silva Oliveira
+**Professora:** Hayanna Silva Oliveira
 
 O projeto demonstra a aplicação prática dos padrões Singleton e Factory Method utilizando a linguagem Java e a IDE Eclipse.
 
